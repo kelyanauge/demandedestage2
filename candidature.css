@@ -1,6 +1,6 @@
 body
 {
-	background-image: url(background-image7.jpg);
+	background-image: url(images/background-image7.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 
@@ -90,3 +90,4 @@ h1
 	text-align: left;
 	margin-left: 60px;
 }
+
