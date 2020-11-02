@@ -51,6 +51,22 @@ header
 
 }
 
+#pourquoi
+
+{
+	background-color: white;
+	background-color: white;
+	margin-top: 50px;
+	margin: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 20px;
+	font-family: monospace;
+	background-color: white;
+	border-radius: 25px;
+	border: 3px grey solid;
+
+}
 #modalités
 {
 	background-color: white;
@@ -91,8 +107,5 @@ h1
 	margin-left: 60px;
 }
 
-aside
-{
-	margin-top: -100;
-}
+
 
